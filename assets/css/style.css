@@ -1,0 +1,40 @@
+body {
+  background-color: #232323;
+  color: #555;
+  padding: 5px;
+}
+
+.main {
+  background-color: #008CBA;
+  border: 1px solid #eee;
+  border-radius: 3px;
+}
+
+.primary {
+  background-color: #fff;
+  padding: 0 1px 0 0;
+  box-shadow: -4px 0 3px -3px #000 inset;
+}
+
+.sub-header {
+  background: #769F79;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  box-shadow: -2px 0 3px -3px #000 inset;
+}
+
+.sub-header h1 {
+  color: #fff;
+  margin: 0;
+  text-shadow: 2px 0 1px #555;
+}
+
+.sub-header h2 {
+  font-size: 18px;
+  color: #fff;
+  margin: 0;
+}
+
+.content {
+  padding: 10px 10px;
+}
